@@ -1,7 +1,7 @@
 # Simple Calculater App
 
-# Description
-created simple web calculater app using React.JS
+### Description
+- created simple web calculater app using React.JS
 
 ### Installation 
 
