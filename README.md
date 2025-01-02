@@ -1,5 +1,8 @@
 # Simple Calculater App
 
+# Description
+created simple web calculater app using React.JS
+
 ### Installation 
 
 1. Clone File
